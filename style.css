@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+div {
+    
+    display: block;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    margin-left: 40%;
+}
+body {
+   
+    background-color:rgba(42, 42, 41, 0.121);
+}
+input#sumit {
+    margin-left: 50px;
+}
